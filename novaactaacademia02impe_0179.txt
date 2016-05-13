@@ -1,0 +1,44 @@
+....---- (59)—
+
+ 
+
+Manifcstum autem est coefficientes harum formularum con-
+gruere curn iis qui in potestatibus binomii occurrunt, fi modo
+
+alterni omittantur.
+
+ξ. 24. Va' oribus igitur harum litterarum a, b, c„ d.
+inucnfii {er ies :mm afflata dabit valorem litterae T, qui qu ( ni.
+casu e1it cc· ιι func'tio ipt'ms x, ex qua fi loco x scribzmlr
+,ar—3, orietur summa seriei propositae S. Veluti fi· filex-it
+sz⁴3‘ haecque series summanda proponatur:
+
+s :av—<x μιγ-κκψεγ-ςκ-ιιγ-ι-(μιγή- cre
+ob Ξέἱίῑ4. 3 xx et ἐξ :4- 3. 2. ι, altiora vero differen-
+nah 1‘1 euanescentia, crit
+
+ngx⁴—3xx÷3³2‚ hincque
+
+S :{(x-—{)⁴-{(x—}J²-†-3⁵u·
+
+Hinc ergo sumto x: ι, vt series summand'oe fic
+
+S Ξ 1 — 2⁴4- 3⁴-4⁴÷ 5⁴1—6⁴·-†- etc.
+reperietur S z 0, vti aliunde constat. Alia exempla non sub·
+iungimus ‚ quoniam ohm iam copiose sunt trac‘tata.
+
+problema 11.
+
+Si Χ vt ante suerit [ειηέῖἱο quaecunque ipsius x, ex qua„
+dum loco x ordine scribantur volorcs x-†-1, x-÷-2., x-†·-3, etc·
+nascamur sunc't'iones X²‚ ΧΨ, ΧΗ, τ’νιιιεηίνι summam. bulas seriei
+in infinitum excurrentis:
+
+n: X ῃ nar-«m Xl4 nam-t Xll— nie-24 Xlsl* 71³'4⁴Xua5·-· etc
+
+Solutio.
+ᾗ. 25. Ponatur huius seriei summa quaesita n'S,vt fit
+
+z: ι - n X'-⁴- n² X''—n³ X‘s'-÷- η’ ΧἸΝ- etc.
+H 2 Hic
+

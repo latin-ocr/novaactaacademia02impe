@@ -1,0 +1,54 @@
+Tab. 11.
+fig, 4.
+
+Ε (78) ====
+
+Problema ΙΙ.
+
+Datis in circulo maximo EA B F duobus paneis A et B,
+in superficie sphaerae triangulam describere A CB, cuius vertex
+C in alio circulo maximo dato Ε C F reperiatur, ez in quo sam-
+ma arcuum A C÷B C fiat minima omnium.
+
+SolutiO.
+
+Sint vt supra E et F punfta intersectionis amborum
+circulorum maximorum, eorumque inclinatio mutua, seu an-
+gulus AE C: a, vocenturque punc‘torum datorum A et B
+a punCto E distantiae, hoc est arcus EA za, E B :b et
+arcus incognitus E sz3 tum vero ponatur arcus A C :p
+et arcus B C Ξ (Ι, atque ex sphaericis constat fore ex trian—
+gulis binis ΑΕ C et B E C
+
+cos.p :z cos. a cos. z -ξ- fin. a fin. z cos. α,
+cos. q Ξ cos. h cos. z 4- fin. b fin. z cos. α,
+vnde differentiando habebimus:
+
+ 
+
+ὃ p Ξ ξ) z (cos. asin. z -ζιτμ a σοί. cz cos. z)
+Jm. p ’
+D q — amcos. bsQz——Jindy cqs.zzcos.z).
+
+μιᾳ
+
+Quum vero summa arcuum p÷-q minima effe debeat, necesse>
+est rt fiat Dpaqk-qu-Q aequationis autern inde resultantis
+resolutio in calculos maxime taediosos praecipitaret, propterca
+quod fin.p et fin.q per formulas radicatos satis complicatas
+exprimuntur3 vnde aliam viam commodiossem ad Problema sol-
+
+vendum infistere debemus.
+
+ 
+
+ 
+
+ 
+
+Consideremus igitur punftum c ipfi trianguli quaesiti
+vertici C proximum, ad quod fi ducantur ex A et B arcus
+
+Ac ct Bc, in eosque* ex (Ξ demittantur perpendicula Cr,
+Cs„
+

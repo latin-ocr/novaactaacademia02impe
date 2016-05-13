@@ -1,0 +1,54 @@
+,ἐξ (66) —
+
+ 
+
+ 
+
+summa erit z '² cuius {fr-astionis euolutio manifesto pro-
+
+(n-4-1)²7
+ducit istam seriem. Plura exempla adiungere superfluum fo·-
+
+ret7 quia hoc argumentum iam alias fufius cst trad'tatum.
+
+Problema III.
+
+Si w anteX denotet func'i‘ionem quamcunque ἕψω x, qnae
+loco x „fbf—[hendo fitcceffiue x-l-L, 2442, xmz-g, abrae in λγ,
+Xss7 ΧΨ, ac proponatur sequens series iffi-'nica cum p1·agr.›z;ss‘ione
+hjpergeometrica commista:
+
+1. .3.4....x.X
+
+με
+1³10 ko
+
+—-— etc.
+eius summam inuestigare.
+· Sol utio.
+
+§. 3¹5. statuatur ista summa quaefita z: 1. 2. 3. . . xS,
+ita vt tantum funffi0ne1n S indagari oporteat, eritque
+S :x—-(x÷1)Xs÷(x÷1)(x÷2)Xsf—<x÷1) (x-4-2) <.x·÷3)X‘'“s—÷- etc.
+Hinc ergo fi loco x vbique scribamus ,κ’-ἦ- Ι, fiet
+ss :Xs— (x —4- 2) ΧΝ-ι- (x -μ 2) (χ-Γ- 3) XM
+— (x -ι- 2) (x -μ 3) (x -ψ- 4) Xxm÷ etc.
+quae posterior series per x —Js- 1 multiplicata ac priori adieffl
+producet istam aequationem: S -ὲ- (x —Js- 1) Ss Ξ X, ex qua
+ergo valorem ipsius S definire oportet.
+
+ᾗ. 36. Hic autern pro S talem seriem pcr differen-
+tialia ipsius X procedentem fingere non licet vt supra, prop-
+terca quod funfflo
+
+S':S÷}{—†-5}}{-,÷ ³³⁵ -Ρ- etc.
+
+1. add-“2³
+
+ 
+
+per faetorem variabilem x÷1 est multiplicata, quamobrem
+
+pro S assumamus seriem generalem p÷q—{- r —†—s—†—t—÷- etc.
+quae
+

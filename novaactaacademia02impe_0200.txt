@@ -1,0 +1,48 @@
+Tab. Π.
+Fi g. 5.
+
+..-... (80) .-..--
+
+ 
+
+ 
+
+piatur⁹ summa arcuum A C÷B C semper duobus quadranti-
+bus acqualis manet.
+
+Corollarium 2.
+
+Quicquid autem fit angulus α, sumto a—l—b: 180⁸,
+erit tang. z: 00, ideoque z :9007 quo igitur casu punctum
+C quadrante distabit a punc‘to E. Sin autern fuerit a-ae-bz900,
+
+fiet tang. z :z 2fin. α cos. α cos. α 5: fin. :za cos. α.
+
+Problema ΙΙΙ.
+
+Datis in circulo maximo EA B F duobus punc‘JJs A et B,
+in upetficie sphaerae triangulum describere A CR, cuius vertex C
+in alio circulo maximo dato Ε C F reperiatur cuiusque area stt
+mamma.
+
+solutio,
+
+Sint omnia vt in binis praecedentibus p1·0b1e1natibus{
+scilicet EA :z α, E B Ξ h, AEC Ξ α, EC Ξ z‚· tum vero
+statuatur area trianguli AEC :X et area trianguli BEC:Y‚
+eritque area trianguli AC B :Y-X, quae cum maxima
+
+, fieri debeat, neceffe est vt fiat bY—szm Hic autem
+
+iterum s1 areas X et Y more solito exprimere et differentialia
+sumere vellemus, in calculos inextricabiles illaberemur: se-
+quenti autem modo res facillime expedietur.
+
+Confideretur punctum vertici C proximum c, et ductis
+arcubus circulorum maximorum Ac et Bc habebimus duo
+triangula elementaria C Ac et C B c, quae cum sint incre-
+menta triangulorum AEC ὅ( BEC, corum areae exprimentur
+per &X et ὃ Υ.
+
+Tracte-
+

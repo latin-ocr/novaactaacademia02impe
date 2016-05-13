@@ -1,0 +1,38 @@
+Ε (46) 2--22
+
+DE
+
+SVMMATIONE SERIERVM
+
+IN QVIBVS TERMINORVM SIGNA
+ALTERNANTVR„
+
+Auitore
+1.. E V L E R Ο,
+
+ 
+
+Conuent. exhib. d. 22 Febr. 1776.
+
+Cum olim essem perscrutatus quemadmodum ex dato ter-
+
+mino generali cuiusque seriei eius summam definiri con-
+veniat, casus quo termini seriei signis alternantibus -ὲ- et ——
+sunt affecti, ‘non parum molestiae faceffebat, ac demum post
+longas ambages mihi licuit ad formulam satis fimplicem per-
+tingere. Hac re igitur accuratius perpensa modum inueni qui
+diredte ad istas formulas perducit, quem igitur hoc loco ex-
+ponere constitui‚ quandoquidem aptus videtur hanc partem
+
+Analyseos vlterius perficiendi.
+
+Problema Ι.
+
+Sit X funchio quaecunque ipfius x, quae, dum loco x suc·
+ceffiue scribuntur ‹valor-es x-†— 1 ‚ x÷ 2, x—t— 3, etc. induat
+hos valores: X', ΧΗ, X'ss7 etc. propqfitaque fit ista series infinita:
+x—X'4Xss—Xs's4Xssss— etc. in infinitum ΞΣ, eius
+summam S inuestigare.
+
+Solutio
+
